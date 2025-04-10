@@ -1,8 +1,15 @@
 ## Hola, soy Rosa 👋
 
-Soy una desarrolladora web en formación con una sólida base en educación y una pasión por la tecnología, el aprendizaje continuo y la creación de soluciones útiles a través del código.
+Soy una desarrolladora web en formación con base sólida en HTML, CSS y JavaScript; y con experiencia previa como docente durante más de 7 años.  
 
-🎓 Actualmente me estoy formando como **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta.
+🎓 Actualmente me estoy formando como **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. <
+
+Mi trayectoria en educación me ha dado habilidades transferibles clave como **comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo**.
+
+Busco integrarme en un equipo de desarrollo frontend para seguir creciendo, aportar ideas y seguir aprendiendo haciendo.
+
+
+
 
 ## 🛠️ Tecnologías que estoy usando y aprendiendo
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
