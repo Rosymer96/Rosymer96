@@ -1,8 +1,8 @@
 ## Hola, soy Rosa 👋
 
-Soy una desarrolladora web en formación con base sólida en HTML, CSS y JavaScript; y con experiencia previa como docente durante más de 7 años.  
+**Desarrolladora web en formación** con base sólida en HTML, CSS y JavaScript || **Educadora** convertida al mundo Tech. 
 
-🎓 Actualmente me estoy formando como **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. <
+🎓 Actualmente me estoy formando como **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. 
 
 Mi trayectoria en educación me ha dado habilidades transferibles clave como **comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo**.
 
@@ -22,7 +22,6 @@ Busco integrarme en un equipo de desarrollo frontend para seguir creciendo, apor
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
 - 🔗 Xiuling Store (https://rosymer96.github.io/XiulingStore/)  
