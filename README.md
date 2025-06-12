@@ -23,9 +23,11 @@ Busco integrarme en un equipo de desarrollo frontend para seguir creciendo, apor
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
--🔗FinaMe (https://finan-me-rosymer96s-projects.vercel.app/)
-  _Aplicación de gestión financiera personal creada con Angular,  CSS y Material.
 
+  
+- 🔗 FinaMe (https://finan-me-rosymer96s-projects.vercel.app/)
+ _Aplicación de gestión financiera personal creada con Angular,  CSS y Material._
+  
 - 🔗 Xiuling Store (https://rosymer96.github.io/XiulingStore/)  
   _Tienda virtual desarrollada con HTML, CSS y JavaScript, con diseño responsivo e interactividad básica._
 
