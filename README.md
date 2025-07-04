@@ -1,8 +1,8 @@
 ## Hola, soy Rosa 👋
 
-**Desarrolladora web en formación** con base sólida en HTML, CSS y JavaScript || **Educadora** convertida al mundo Tech. 
+**Desarrolladora Full Stack Jr** con base sólida en JavaScript, Angular y NodeJs || **Educadora** convertida al mundo Tech. 
 
-🎓 Actualmente me estoy formando como **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. 
+🎓 He finalizado mi formacion en **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. 
 
 Mi trayectoria en educación me ha dado habilidades transferibles clave como **comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo**.
 
