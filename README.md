@@ -6,7 +6,7 @@
 
 Mi trayectoria en educación me ha dado habilidades transferibles clave como **comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo**.
 
-Busco integrarme en un equipo de desarrollo frontend para seguir creciendo, aportar ideas y seguir aprendiendo haciendo.
+Busco integrarme en un equipo de desarrollo web para aportar todas mi habilidades y seguir creciendo en el sector Tech.
 
 
 
