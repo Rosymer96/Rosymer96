@@ -1,47 +1,49 @@
-## Hola, soy Rosa 👋
+# Hi there, I'm Rosa 👋 
 
-**Desarrolladora Full Stack Jr** con base sólida en JavaScript, Angular y NodeJs || **Educadora** convertida al mundo Tech. 
+### 🚀 From Educator to Software Engineer | 42 Madrid Student | Angular & AI Enthusiast
 
-🎓 He finalizado mi formacion en **Full Stack Developer** en [UPGRADE HUB](https://www.upgrade-hub.com/), y complemento mi formación con proyectos propios y aprendizaje autodidacta. 
+I am a former primary school teacher with 7 years of experience, now evolving into the tech world. Currently, I am mastering the **42 Madrid Common Core**, diving deep into low-level systems, algorithms, and the new curriculum featuring **Python & AI**.
 
-Mi trayectoria en educación me ha dado habilidades transferibles clave como **comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo**.
+---
 
-Busco integrarme en un equipo de desarrollo web para aportar todas mi habilidades y seguir creciendo en el sector Tech.
+### 🛠️ Tech Stack & Learning Journey
 
+- **Software Engineering (42):** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  *Projects delivered: `libft`, `ft_printf`, `get_next_line`. Currently working on: `push_swap`.*
 
+- **Frontend Development:** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  *Focus: Angular 19 (Signals, SSR, Standalone Components).*
 
+- **Backend & DB:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Skills:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) en proceso...🛠️
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+---
 
+### 📂 Featured Projects
 
-- 🔗 NutriCole (Despliegue en proceso...🛠️ )
-  *https://github.com/Rosymer96/FrontEnd-NutriCole
-  *https://github.com/Rosymer96/Api_Gestion_MenuEscolar
- _Aplicación de gestión de menu escolar creada con Angular, NodeJs, ExpressJs y MySQL._
-  
-- 🔗 FinaMe (https://finan-me-rosymer96s-projects.vercel.app/)
- _Aplicación de gestión financiera personal creada con Angular,  CSS y Material._
-  
-- 🔗 Xiuling Store (https://rosymer96.github.io/XiulingStore/)  
-  _Tienda virtual desarrollada con HTML, CSS y JavaScript, con diseño responsivo e interactividad._
+* **[Portfolio](https://rosymer96.github.io/Portfolio/)** - My personal site built with **Angular 19**.
+* **[NutriCole](https://github.com/Rosymer96/FrontEnd-NutriCole)** - School menu management system (Angular + Node.js + MySQL).
+* **[FinaMe](https://finan-me-rosymer96s-projects.vercel.app/)** - Personal finance tracker (Angular & Material Design).
+* **[Xiuling Store](https://rosymer96.github.io/XiulingStore/)** - E-commerce UI with responsive design.
 
-- 🔗 Hamburgueseria (https://rosymer96.github.io/Hamburgueseria-TrabajoFinalHTML/) 
-  _Sitio web estático desarrollado con HTML y CSS._
+---
 
+### 🧠 Soft Skills from the Classroom
+My background in education provides me with:
+- **Exceptional Communication:** Explaining complex logic in simple terms.
+- **Analytical Thinking:** Thanks to my Qualitative Research background.
+- **Instructional Design:** Building intuitive user flows and documentation.
 
-## 🤝 Conectemos
-- 📫 rosymer96@gmail.com
-- 🌍 [LinkedIn](https://www.linkedin.com/in/rosa-vela-valqui96/)
-- 📲 +34 614153683
- 
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-vela96/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosymer96@gmail.com)
+
+🚀 *Currently focused on algorithms at 42 and high-performance web apps.*
