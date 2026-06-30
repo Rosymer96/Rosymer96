@@ -16,7 +16,6 @@ I enjoy solving complex problems, understanding how software works under the hoo
 - 🐍 Successfully completed the **Python Piscine** and officially entered **Milestone 3**
 - 🧩 Building projects focused on algorithms, backend development, and software architecture
 - ☁️ Learning Cloud Computing, DevOps and AI Automation
-- 🤖 Developing a CRM & Automation platform with **Node.js + MySQL + n8n**
 
 ---
 
@@ -37,7 +36,6 @@ I enjoy solving complex problems, understanding how software works under the hoo
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -45,14 +43,12 @@ I enjoy solving complex problems, understanding how software works under the hoo
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
 ## 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -72,7 +68,6 @@ Python maze generator, solver and terminal renderer developed at **42 Madrid**.
 - Breadth-First Search (BFS)
 - Deterministic random seeds
 - Modular architecture
-- Collaborative development using Git
 
 🔗 https://github.com/Rosymer96/A_maze_ing
 
@@ -122,36 +117,6 @@ Read files line-by-line efficiently in C.
 
 ---
 
-## 🍽 NutriCole
-
-Full Stack application for school meal management.
-
-### Tech Stack
-
-- Angular
-- Node.js
-- MySQL
-- REST API
-
-🔗 https://github.com/Rosymer96/FrontEnd-NutriCole
-
----
-
-## 💰 FinaMe
-
-Personal finance application developed with Angular.
-
-🔗 https://finan-me-rosymer96s-projects.vercel.app/
-
----
-
-## 🌐 Portfolio
-
-Personal portfolio built with Angular.
-
-🔗 https://rosymer96.github.io
-
----
 
 # 🌱 Currently Learning
 
@@ -177,13 +142,6 @@ Personal portfolio built with Angular.
 
 ---
 
-# 📈 GitHub Stats
-
-![Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosymer96&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosymer96&layout=compact&hide_border=true)
-
----
 
 # 📫 Connect with me
 
