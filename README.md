@@ -1,49 +1,198 @@
 # Hi there, I'm Rosa 👋 
 
-### 🚀 From Educator to Software Engineer | 42 Madrid Student | Angular & AI Enthusiast
+### 🚀 From Educator to Software Engineer | 42 Madrid Student | Backend & Systems | Full Stack Developer
 
-I am a former primary school teacher with 7 years of experience, now evolving into the tech world. Currently, I am mastering the **42 Madrid Common Core**, diving deep into low-level systems, algorithms, and the new curriculum featuring **Python & AI**.
+'m a Software Engineering student at **42 Madrid** with a background in Education and Full Stack Development.
 
----
+My current focus is on building strong computer science fundamentals through **C, Python, algorithms, data structures and systems programming**, while continuing to develop **full-stack** applications with modern web technologies.
 
-### 🛠️ Tech Stack & Learning Journey
-
-- **Software Engineering (42):** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  *Projects delivered: `libft`, `ft_printf`, `get_next_line`. Currently working on: `push_swap`.*
-
-- **Frontend Development:** ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  *Focus: Angular 19 (Signals, SSR, Standalone Components).*
-
-- **Backend & DB:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+I enjoy solving complex problems, understanding how software works under the hood, and continuously learning new technologies.
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Currently
 
-* **[Portfolio](https://rosymer96.github.io/Portfolio/)** - My personal site built with **Angular 19**.
-* **[NutriCole](https://github.com/Rosymer96/FrontEnd-NutriCole)** - School menu management system (Angular + Node.js + MySQL).
-* **[FinaMe](https://finan-me-rosymer96s-projects.vercel.app/)** - Personal finance tracker (Angular & Material Design).
-* **[Xiuling Store](https://rosymer96.github.io/XiulingStore/)** - E-commerce UI with responsive design.
-
----
-
-### 🧠 Soft Skills from the Classroom
-My background in education provides me with:
-- **Exceptional Communication:** Explaining complex logic in simple terms.
-- **Analytical Thinking:** Thanks to my Qualitative Research background.
-- **Instructional Design:** Building intuitive user flows and documentation.
+- 🎓 Software Engineering Student at **42 Madrid**
+- 🐍 Successfully completed the **Python Piscine** and officially entered **Milestone 3**
+- 🧩 Building projects focused on algorithms, backend development, and software architecture
+- ☁️ Learning Cloud Computing, DevOps and AI Automation
+- 🤖 Developing a CRM & Automation platform with **Node.js + MySQL + n8n**
 
 ---
 
-### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-vela96/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosymer96@gmail.com)
+# 🛠 Tech Stack
 
-🚀 *Currently focused on algorithms at 42 and high-performance web apps.*
+## 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+## 🐍 A-Maze-ing
+
+Python maze generator, solver and terminal renderer developed at **42 Madrid**.
+
+### Highlights
+
+- Maze generation algorithms
+- Breadth-First Search (BFS)
+- Deterministic random seeds
+- Modular architecture
+- Collaborative development using Git
+
+🔗 https://github.com/Rosymer96/A_maze_ing
+
+---
+
+## 🧠 Push_swap
+
+Sorting algorithm implemented in **C** under strict operational constraints.
+
+### Highlights
+
+- Data structures
+- Algorithm optimization
+- Complexity analysis
+- Performance-oriented programming
+
+🔗 https://github.com/Rosymer96/PUSH_SWAP
+
+---
+
+## 📚 Libft
+
+Custom C standard library built from scratch.
+
+### Topics
+
+- Memory management
+- String manipulation
+- Linked Lists
+- Modular programming
+
+🔗 https://github.com/Rosymer96/Libft-42Madrid
+
+---
+
+## 📖 Get Next Line
+
+Read files line-by-line efficiently in C.
+
+### Topics
+
+- Dynamic memory
+- File descriptors
+- Buffer management
+
+🔗 https://github.com/Rosymer96/get_next_line_LISTAS
+
+---
+
+## 🍽 NutriCole
+
+Full Stack application for school meal management.
+
+### Tech Stack
+
+- Angular
+- Node.js
+- MySQL
+- REST API
+
+🔗 https://github.com/Rosymer96/FrontEnd-NutriCole
+
+---
+
+## 💰 FinaMe
+
+Personal finance application developed with Angular.
+
+🔗 https://finan-me-rosymer96s-projects.vercel.app/
+
+---
+
+## 🌐 Portfolio
+
+Personal portfolio built with Angular.
+
+🔗 https://rosymer96.github.io
+
+---
+
+# 🌱 Currently Learning
+
+- Software Architecture
+- Design Patterns
+- Cloud Computing
+- Docker
+- CI/CD
+- DevOps
+- AI Automation
+- Distributed Systems
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Complete the Python Piscine at 42 Madrid
+- 🎓 Continue progressing through the 42 Common Core
+- 🤖 Build an end-to-end CRM platform with automation
+- ☁️ Learn Docker and AWS
+- 🌍 Make my first Open Source contribution
+- 💼 Land my first Software Engineering internship
+
+---
+
+# 📈 GitHub Stats
+
+![Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosymer96&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosymer96&layout=compact&hide_border=true)
+
+---
+
+# 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rosa%20Vela-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rosa-vela96/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=for-the-badge)](https://rosymer96.github.io)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosymer96@gmail.com)
+
+---
+
+> *"Learning by building. Improving by solving."* 🚀
